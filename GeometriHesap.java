@@ -8,8 +8,9 @@
  * cevre hesaplamalarini yapar.
  */
 
+
 import java.util.Scanner;
-public class GeometriHesap {
+public class geometrikHesap {
     static double pi = 3.14;
     static Scanner input = new Scanner(System.in);
     //kare
