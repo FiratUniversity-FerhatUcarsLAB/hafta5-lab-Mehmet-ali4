@@ -9,7 +9,7 @@
  */
 
 import java.util.Scanner;
-public class algo {
+public class GeometriHesap {
     static double pi = 3.14;
     static Scanner input = new Scanner(System.in);
     //kare
